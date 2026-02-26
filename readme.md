@@ -19,11 +19,11 @@ Projeto para mentoria para profissionais interessados em ingressar ou se aperfei
 
 ## Link para o projeto
 
-<p>App Entrevistador de Perfil Profissional em TI
+<p>Link para o App Entrevistador de Perfil Profissional em TI
 <a href="https://career-compass-bot-11.lovable.app">https://career-compass-bot-11.lovable.app</a>
 </p>
 
-<p>App planejador especializado em criar roadmaps personalizados de carreira em TI
+<p>Link para o App para criar roadmaps personalizados de carreira em TI
 <a href="https://it-pathfinder-bot.lovable.app">https://it-pathfinder-bot.lovable.app</a>
 </p>
 
