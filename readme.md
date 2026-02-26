@@ -19,12 +19,18 @@ Projeto para mentoria para profissionais interessados em ingressar ou se aperfei
 
 ## Link para o projeto
 
-<p>Link para o App Entrevistador de Perfil Profissional em TI
-<a href="https://career-compass-bot-11.lovable.app" target="_blank">https://career-compass-bot-11.lovable.app</a>
+<p>
+  Link para o App Entrevistador de Perfil Profissional em TI:  
+  <a href="https://career-compass-bot-11.lovable.app" target="_blank" rel="noopener noreferrer">
+    https://career-compass-bot-11.lovable.app
+  </a>
 </p>
 
-<p>Link para o App para criar roadmaps personalizados de carreira em TI
-<a href="https://it-pathfinder-bot.lovable.app" target="_blank">https://it-pathfinder-bot.lovable.app</a>
+<p>
+  Link para o App Criador de Roadmaps Personalizados de Carreira em TI:  
+  <a href="https://it-pathfinder-bot.lovable.app" target="_blank" rel="noopener noreferrer">
+    https://it-pathfinder-bot.lovable.app
+  </a>
 </p>
 
 ## PRD – App Entrevistador de Perfil Profissional em TI
